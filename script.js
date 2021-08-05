@@ -10,7 +10,7 @@
 
  function Reset() {
 
-
+// comment
 
     var elements =document.querySelectorAll('.a,.b,.c')
     for(var i = 0; i < elements.length; i++){
